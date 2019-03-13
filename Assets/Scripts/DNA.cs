@@ -48,6 +48,7 @@ public class DNA
         genes[Random.Range(0, dnaLength)] = Random.Range(0, maxValues);
     }
 
+
     public int GetGene(int pos)
     {
         return genes[pos];

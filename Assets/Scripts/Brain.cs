@@ -23,6 +23,11 @@ public class Brain : MonoBehaviour
         startPosition = this.transform.position;
 
     }
+    public void setDNA(DNA nDna)
+    {
+        startPosition = this.transform.position;
+        dna = nDna;
+    }
 
     private void OnCollisionEnter(Collision obj)
     {

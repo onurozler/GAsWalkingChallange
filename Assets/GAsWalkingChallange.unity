@@ -404,7 +404,7 @@ MonoBehaviour:
   botPrefab: {fileID: 4155414759912747878, guid: 1897298fdc2b39f4a849ec9719f9b32d,
     type: 3}
   startingPosition: {fileID: 1019171775}
-  populationSize: 50
+  populationSize: 100
   trialTime: 10
 --- !u!4 &922579642
 Transform:
@@ -615,7 +615,7 @@ GameObject:
   - component: {fileID: 2112824884}
   - component: {fileID: 2112824883}
   m_Layer: 0
-  m_Name: Maze
+  m_Name: GenerateWall
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -662,7 +662,7 @@ GameObject:
   - component: {fileID: 2116937456}
   - component: {fileID: 2116937455}
   m_Layer: 0
-  m_Name: MazeGround
+  m_Name: Ground
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

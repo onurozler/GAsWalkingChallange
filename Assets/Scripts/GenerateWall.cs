@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GenerateMaze : MonoBehaviour {
+public class GenerateWall : MonoBehaviour {
 
 	public GameObject blockPrefab;
 	int width = 40;

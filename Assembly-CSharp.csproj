@@ -62,7 +62,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Brain.cs" />
     <Compile Include="Assets\Scripts\DNA.cs" />
-    <Compile Include="Assets\Scripts\GenerateMaze.cs" />
+    <Compile Include="Assets\Scripts\GenerateWall.cs" />
     <Compile Include="Assets\Scripts\PopulationManager.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>D:/My Projects/Unity/GAsWalkingChallange/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
